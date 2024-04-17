@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1713261523069,
+  "timestamp": 1713344687605,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -471,9 +471,11 @@
         "/assets/icons/job.svg",
         "/assets/icons/point.svg",
         "/assets/icons/shopping-cart.svg",
-        "/assets/imgs/HORIZONTAL.png",
-        "/assets/imgs/favicon.png",
+        "/assets/imgs/epoint-banner.png",
+        "/assets/imgs/epoint-logo.png",
         "/assets/imgs/login-bg.svg",
+        "/assets/imgs/mypoint-banner.png",
+        "/assets/imgs/mypoint-logo.png",
         "/assets/imgs/pipi.png",
         "/assets/outline/.gitkeep",
         "/assets/outline/account-book.js",
@@ -2087,9 +2089,11 @@
     "/assets/icons/job.svg": "03aa83d84cd88c7c15ecc7d366d0d5c792fc0111",
     "/assets/icons/point.svg": "61234e13de200cd1fdc7850c8e1313df29e5fad8",
     "/assets/icons/shopping-cart.svg": "23a7cb8295d5cda2183e8a17a83e194ca19406bc",
-    "/assets/imgs/HORIZONTAL.png": "c952a02454fc6196f1cde9eb86c15f56dc04729e",
-    "/assets/imgs/favicon.png": "34079ea567e8747c9a9ed81b0edb741cac4aa689",
+    "/assets/imgs/epoint-banner.png": "13565a7500aa7a0d78bbdee6eea48a7aeee26915",
+    "/assets/imgs/epoint-logo.png": "f5f85c6e08a018d9dde056e5c9aca6b5222be3ff",
     "/assets/imgs/login-bg.svg": "6a8ba2bec8dfc3bf0ec553d094144a78addf4cd3",
+    "/assets/imgs/mypoint-banner.png": "c952a02454fc6196f1cde9eb86c15f56dc04729e",
+    "/assets/imgs/mypoint-logo.png": "34079ea567e8747c9a9ed81b0edb741cac4aa689",
     "/assets/imgs/pipi.png": "2d73483f8944f4398e5c055e8817b45e2ba282b1",
     "/assets/outline/.gitkeep": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/assets/outline/account-book.js": "f6e496aa659fde136105e24d498b378a3965c8c7",
@@ -3239,7 +3243,7 @@
     "/assets/twotone/warning.js": "fb2d7ea232f3a99bf8f080dbc94c65699232ac01",
     "/assets/twotone/warning.svg": "8c7a2d3e765a2e7dd58ac674870c6655cecb0068",
     "/favicon.ico": "4e23d0f9b6ddaf3c9ddef90dbaed2342941297b5",
-    "/index.html": "edffcb107a69e4eb22fb8c95b5ba22ea6b2b3fee",
+    "/index.html": "3fdc4ace5f2f851c38c7bd0b3f0f5099ba500240",
     "/styles.css": "6307dcc49632cc70a7c65ec11afa3e5f773c589d"
   },
   "navigationUrls": [
