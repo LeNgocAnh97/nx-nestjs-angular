@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1713344687605,
+  "timestamp": 1718864748063,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/styles.css"
+        "/styles.b595d5f57bd45403.css"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
@@ -466,10 +466,17 @@
         "/assets/fill/zhihu-circle.svg",
         "/assets/fill/zhihu-square.js",
         "/assets/fill/zhihu-square.svg",
+        "/assets/icons/account_circle.svg",
+        "/assets/icons/admin_panel_setting.svg",
+        "/assets/icons/campaign.svg",
         "/assets/icons/codes.svg",
+        "/assets/icons/flash_on.svg",
         "/assets/icons/gift.svg",
+        "/assets/icons/home.svg",
+        "/assets/icons/inventory.svg",
         "/assets/icons/job.svg",
         "/assets/icons/point.svg",
+        "/assets/icons/receipt.svg",
         "/assets/icons/shopping-cart.svg",
         "/assets/imgs/epoint-banner.png",
         "/assets/imgs/epoint-logo.png",
@@ -2084,10 +2091,17 @@
     "/assets/fill/zhihu-circle.svg": "be6280fa4e203b9ad098c82fa7e600257eb6058a",
     "/assets/fill/zhihu-square.js": "be7961c908ea2b910c9189519e120ca55daac42e",
     "/assets/fill/zhihu-square.svg": "116dde19e8e3275d1920e425031d120a51f18fa1",
+    "/assets/icons/account_circle.svg": "14ecdf7700cb61b051efc6e4eedec9b061cc271b",
+    "/assets/icons/admin_panel_setting.svg": "765112474e0d580463cfe237b1ed1c0789997f6c",
+    "/assets/icons/campaign.svg": "a44f09d7a3033be43008174d298c857e0eb655cf",
     "/assets/icons/codes.svg": "05adbb6c2bdaba46578e82e63a7020aac99f58a5",
+    "/assets/icons/flash_on.svg": "5eb62e8c393e023c8ffaa23fcc0afad695a65442",
     "/assets/icons/gift.svg": "209a2a0ac8f32f77490608a1895820f124d2ee1c",
+    "/assets/icons/home.svg": "41dde9fa8545c1cd7d3950db0a8e88482451fded",
+    "/assets/icons/inventory.svg": "517bcef8b1715f22794736e882ff51a237f1086b",
     "/assets/icons/job.svg": "03aa83d84cd88c7c15ecc7d366d0d5c792fc0111",
     "/assets/icons/point.svg": "61234e13de200cd1fdc7850c8e1313df29e5fad8",
+    "/assets/icons/receipt.svg": "27ca71d4ea227dbe0991d38c3e1431c08b4097f0",
     "/assets/icons/shopping-cart.svg": "23a7cb8295d5cda2183e8a17a83e194ca19406bc",
     "/assets/imgs/epoint-banner.png": "13565a7500aa7a0d78bbdee6eea48a7aeee26915",
     "/assets/imgs/epoint-logo.png": "f5f85c6e08a018d9dde056e5c9aca6b5222be3ff",
@@ -3243,8 +3257,8 @@
     "/assets/twotone/warning.js": "fb2d7ea232f3a99bf8f080dbc94c65699232ac01",
     "/assets/twotone/warning.svg": "8c7a2d3e765a2e7dd58ac674870c6655cecb0068",
     "/favicon.ico": "4e23d0f9b6ddaf3c9ddef90dbaed2342941297b5",
-    "/index.html": "3fdc4ace5f2f851c38c7bd0b3f0f5099ba500240",
-    "/styles.css": "6307dcc49632cc70a7c65ec11afa3e5f773c589d"
+    "/index.html": "c04f118843886d4a3b58193267d03b459545637a",
+    "/styles.b595d5f57bd45403.css": "bf498b5438889a279ab79279dd7c54d7ca0dcc32"
   },
   "navigationUrls": [
     {
