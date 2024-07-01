@@ -1,0 +1,1 @@
+(self.webpackChunkmicro_product=self.webpackChunkmicro_product||[]).push([[1740],{1740:(c,e,n)=>{n.r(e),n.d(e,{environment:()=>o});const o={isTestMode:!1}}}]);

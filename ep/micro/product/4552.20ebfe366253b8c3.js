@@ -1,0 +1,1 @@
+(self.webpackChunkmicro_product=self.webpackChunkmicro_product||[]).push([[4552],{4552:(n,d,u)=>{u.d(d,{l:()=>e});const e={now:()=>(e.delegate||Date).now(),delegate:void 0}}}]);
